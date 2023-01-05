@@ -1,0 +1,16 @@
+body{
+    display: flex;
+}
+
+.header {
+    width: 100%;
+    height: 100%;
+    background: #732626;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px black;
+}
+.header, #h1{
+    color :white
+}
